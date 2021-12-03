@@ -1,4 +1,4 @@
-/* prog2.c */
+/* SAMUEL - AREVALO | snell191198@gmail.com */
 #include <stdio.h>
 #include <stdlib.h>
 
